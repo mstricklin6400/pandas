@@ -11,7 +11,7 @@ env/
 venv/
 
 # Output files
-outputs/
+# (outputs/ was removed so results can be committed for instructor review)
 
 # VSCode
 .vscode/
