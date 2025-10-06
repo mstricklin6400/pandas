@@ -8,7 +8,7 @@ What is in this folder
 
 How to use (easy)
 1. Edit your info in the files:
-	- Open `pandas_assignment.ipynb` or `pandas_assignment.py` and change the placeholder name `YOUR_FULL_NAME` to your real name.
+	- Open `pandas_assignment.ipynb` or `pandas_assignment.py` and change the placeholder name `Mindy Stricklin` to your real name.
 2. Install Python packages (PowerShell):
 
 ```powershell
@@ -53,4 +53,8 @@ Notes
  - The CSV is small so the examples run quickly.
 - Change the names/ages in the notebook or script to match your own information before submitting.
 
+Release notes
+ - v0.1.0 — Initial upload of the pandas Getting Started assignment (notebook, runnable script, data, and requirements).
+
+If you'd like an official GitHub Release created on the remote, I can create that too (requires authentication). I also created a local tag `v0.1.0` and pushed it to the remote when updating the repo.
 If you want, I can help check your files before you push them.

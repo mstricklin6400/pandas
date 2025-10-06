@@ -12,7 +12,7 @@ def main():
 
     # Small DataFrame with personal info (edit these entries)
     my_info = pd.DataFrame({
-        'Name': ['YOUR_FULL_NAME', 'Friend A', 'Friend B'],
+        'Name': ['Mindy Stricklin', 'Friend A', 'Friend B'],
         'Age': [25, 30, 40],
         'Sex': ['female', 'male', 'female'],
     })
